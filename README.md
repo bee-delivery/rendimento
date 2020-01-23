@@ -1,4 +1,4 @@
-# Bank Account Validator
+# Banco Rendimento
 
 Integre seu sistema rapidamente com o banco Rendimento através deste pacote.
 
